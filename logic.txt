@@ -1,4 +1,0 @@
-A>B!AB A>B!A!B 1.0
-A>B!AB B>B!A>B 0.5
-B>A>B>A!AB B>B!A>B 0.1
-B!A>B>A!AB B>B!A>B 0.0

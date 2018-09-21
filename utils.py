@@ -17,3 +17,6 @@ def tanh_prime(x):
 
 def psh(arrays):
     for a in arrays: print (np.shape(a))
+
+def expand(array):
+    return np.expand_dims(array, axis=1)
